@@ -1,0 +1,9 @@
+C:\Users\Oscar\Source\Repos\SisVentas\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Oscar\Source\Repos\SisVentas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Oscar\Source\Repos\SisVentas\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Oscar\Source\Repos\SisVentas\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Oscar\Source\Repos\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Oscar\Source\Repos\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\Source\Repos\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Oscar\Source\Repos\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Oscar\Source\Repos\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.pdb

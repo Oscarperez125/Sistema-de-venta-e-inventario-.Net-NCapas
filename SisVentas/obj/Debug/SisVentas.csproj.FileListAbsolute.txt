@@ -1,0 +1,16 @@
+C:\Users\Oscar\Source\Repos\SisVentas\SisVentas\bin\Debug\SisVentas.exe.config
+C:\Users\Oscar\Source\Repos\SisVentas\SisVentas\bin\Debug\SisVentas.exe
+C:\Users\Oscar\Source\Repos\SisVentas\SisVentas\bin\Debug\SisVentas.pdb
+C:\Users\Oscar\Source\Repos\SisVentas\SisVentas\bin\Debug\CapaPresentacion.dll
+C:\Users\Oscar\Source\Repos\SisVentas\SisVentas\bin\Debug\CapaNegocio.dll
+C:\Users\Oscar\Source\Repos\SisVentas\SisVentas\bin\Debug\CapaDatos.dll
+C:\Users\Oscar\Source\Repos\SisVentas\SisVentas\bin\Debug\CapaPresentacion.pdb
+C:\Users\Oscar\Source\Repos\SisVentas\SisVentas\bin\Debug\CapaNegocio.pdb
+C:\Users\Oscar\Source\Repos\SisVentas\SisVentas\bin\Debug\CapaDatos.pdb
+C:\Users\Oscar\Source\Repos\SisVentas\SisVentas\obj\Debug\SisVentas.csprojAssemblyReference.cache
+C:\Users\Oscar\Source\Repos\SisVentas\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+C:\Users\Oscar\Source\Repos\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.cache
+C:\Users\Oscar\Source\Repos\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\Source\Repos\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.CopyComplete
+C:\Users\Oscar\Source\Repos\SisVentas\SisVentas\obj\Debug\SisVentas.exe
+C:\Users\Oscar\Source\Repos\SisVentas\SisVentas\obj\Debug\SisVentas.pdb
